@@ -38,7 +38,7 @@
 | Project | Tech | Link |
 |---|---|---|
 | Task Management REST API | Spring Boot, JWT, MySQL | [GitHub] (https://github.com/Devrajsingh029/task-management-api)|
-| Agriculture E-Commerce Backend | Spring Boot, JPA, MySQL | [GitHub](https://github.com/Devrajsingh029/agri-ecommerce-backend) |
+| Agriculture E-Commerce Backend | Spring Boot, JPA, MySQL | [GitHub] (https://github.com/Devrajsingh029/agri-ecommerce-backend) |
 
 ---
 
